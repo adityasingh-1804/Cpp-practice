@@ -1,0 +1,5 @@
+//squr()
+//cqur()
+//min()
+//max()
+//power(a,b)
