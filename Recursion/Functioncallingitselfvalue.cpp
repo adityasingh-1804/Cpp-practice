@@ -6,4 +6,5 @@ void greet(){
 }
 int main (){
     greet(); 
+    cout<< " hii";
 }
