@@ -6,5 +6,5 @@ void greet(){
 }
 int main (){
     greet(); 
-    cout<< " helo";
+    
 }
