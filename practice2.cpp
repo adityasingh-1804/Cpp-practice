@@ -5,11 +5,7 @@ int main(){
     int count =0;
 
     for(int i=0;i<5;i++){
-        if(arr[i]%10){
-            count++;
-        }
-       
-   
+        if(arr[i]%
     }
      if(count%2==0){
             cout<<"number is even";
